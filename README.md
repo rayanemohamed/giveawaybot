@@ -24,9 +24,8 @@ stats
 [![Discord Bots](https://top.gg/api/widget/upvotes/606587080042086420.svg)](https://top.gg/bot/606587080042086420)
 
 # Links
-- 🔗 [Invite Link](https://discordapp.com/api/oauth2/authorize?client_id=606587080042086420&permissions=8&scope=bot)
-- 😎 [Support Server Link](https://discord.gg/wjBJJUY)
-- 📃 [Commands](https://github.com/Zaid-maker/-Official-Giveaway-Bot-/blob/master/AVAILABLE_COMMANDS.md)
+- 🔗 [Invite Link](https://discord.com/api/oauth2/authorize?client_id=712651546583892058&permissions=8&scope=bot)
+- 😎 [Support Server Link](https://discord.gg/yNJ53aAPWN)
 
 # Copyright 
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits. Thanks
