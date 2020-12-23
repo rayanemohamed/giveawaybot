@@ -19,9 +19,6 @@ ping , invite
 stats
 
 # Status 
-[![Discord Bots](https://top.gg/api/widget/status/606587080042086420.svg)](https://top.gg/bot/606587080042086420)
-[![Discord Bots](https://top.gg/api/widget/servers/606587080042086420.svg)](https://top.gg/bot/606587080042086420)
-[![Discord Bots](https://top.gg/api/widget/upvotes/606587080042086420.svg)](https://top.gg/bot/606587080042086420)
 
 # Links
 - 🔗 [Invite Link](https://discord.com/api/oauth2/authorize?client_id=712651546583892058&permissions=8&scope=bot)
