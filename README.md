@@ -1,8 +1,22 @@
 # 🎁 Official-Giveaways-Bot ⚡
 GiveawaysBot allows you to conduct giveaways in your discord server with lightning fast speed. 
 
-## Directly run the code on repl.it
-[![Run on Repl.it](https://repl.it/badge/github/Zaid-maker/official-giveaway-bot)](https://repl.it/github/Zaid-maker/official-giveaway-bot)
+#  commands
+:gift: Giveaway :gift:
+- start [channel-name] [Time] [winners] [Prize]
+- reroll [prize name]
+- end [prize name]
+
+#  Examples
+- g!start #giveaway 5m 1 Testing
+- g!end Testing
+- g!reroll Testing
+
+:grin: Fun :grin:
+ping , invite
+
+:information_source: Information :information_source:
+stats
 
 # Status 
 [![Discord Bots](https://top.gg/api/widget/status/606587080042086420.svg)](https://top.gg/bot/606587080042086420)
