@@ -52,4 +52,4 @@ fs.readdir("./commands/", (_err, files) => {
 });
 
 // Login
-client.login(config.token);
+client.login(process.env.TOKEN);
